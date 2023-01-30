@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,12,4,2,3,7,8,6,5,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "16,790,233,67,137,439,501,371,305,561,634,711",
+                        "endColumns": "50,57,71,69,95,61,59,67,65,72,76,78",
+                        "endOffsets": "62,843,300,132,228,496,556,434,366,629,706,785"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,220,278,350,420,516,578,638,706,772,845,922",
+                        "endColumns": "50,57,71,69,95,61,59,67,65,72,76,78",
+                        "endOffsets": "215,273,345,415,511,573,633,701,767,840,917,996"
+                    }
+                },
+                {
+                    "source": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "182"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1001",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "1129"
+                    }
+                },
+                {
+                    "source": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,146",
+                        "endColumns": "57,55",
+                        "endOffsets": "141,197"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

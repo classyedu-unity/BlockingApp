@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\build\\intermediates\\merged_res\\debug\\xml_device_admin.xml.flat",
+        "source": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\src\\main\\res\\xml\\device_admin.xml"
+    },
+    {
+        "merged": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Working\\Borsos\\android-kiosk\\KioskExample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
